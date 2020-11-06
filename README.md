@@ -7,7 +7,9 @@ AlgoVis is a Python program that visualises some basic search and sort algorithm
 ## Project Specs
 
 Python 3.8.2
+
 Pygame 1.9.3
+
 Tkinter (included with Python 3.7.0 or later)
 
 To run AlgoVis, ensure the above are installed, download this repository and run the Home.py file.

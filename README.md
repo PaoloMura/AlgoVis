@@ -17,6 +17,9 @@ To run AlgoVis, ensure the above are installed, download this repository and run
 ## Background
 
 I created this project for use in tutoring GCSE Computer Science students and to familiarise myself with OOP design patterns. The chosen algorithms are the ones common to GCSE exams. The OOP design patterns used include:
+
 -the mediator pattern (as an interface between the algorithms and the UI)
+
 -the memento pattern (to capture the state of the program, allowing use of a 'Previous' button)
+
 -the factory method (for instantiating algorithms)
